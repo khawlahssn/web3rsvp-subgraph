@@ -1,0 +1,1 @@
+This is a subgraph built for the [RSVP Dapp](https://github.com/khawlahssn/web3rsvp).
